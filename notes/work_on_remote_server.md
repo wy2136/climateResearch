@@ -21,7 +21,7 @@ e.g.
         ncview xxxx.nc
 
 
-### ssh login without tying password
+### ssh login without typing password
 1. generate the keys (private + public)
 
         ssh-keygen -t rsa
